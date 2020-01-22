@@ -1,2 +1,6 @@
 making this file
+it puts the attempted change first
 making a change on the desktop
+=======
+making a change on the laptop
+then the already changed part last
